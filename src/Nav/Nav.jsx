@@ -1,7 +1,7 @@
 const Nav = () => {
   return (
     <header>
-      <nav className="px-20 py-10 flex justify-between items-center border">
+      <nav className="px-20 py-10 flex justify-between items-center">
         <svg
           id="Ebene_1"
           xmlns="http://www.w3.org/2000/svg"
