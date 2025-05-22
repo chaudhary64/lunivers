@@ -19,7 +19,7 @@ const Cursor = () => {
         left: `${position.x}px`,
         transform: "translate(-50%, -50%)",
       }}
-      className="h-5 w-5 bg-[#5550BE] rounded-full fixed pointer-events-none"
+      className="h-4 w-4 bg-[#5550BE] rounded-full fixed pointer-events-none"
     />
   );
 };
