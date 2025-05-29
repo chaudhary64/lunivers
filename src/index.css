@@ -2,22 +2,22 @@
 
 @font-face {
     font-family: "NeueMontreal-Regular";
-    src: url("/public/fonts/NeueMontreal-Regular.woff2") format("woff2"),
+    src: url("/fonts/NeueMontreal-Regular.woff2") format("woff2"),
 }
 
 @font-face {
     font-family: "Recoleta-Medium";
-    src: url("/public/fonts/Recoleta-Medium.woff2") format("woff2"),
+    src: url("/fonts/Recoleta-Medium.woff2") format("woff2"),
 }
 
 @font-face {
     font-family: "Recoleta-SemiBold";
-    src: url("/public/fonts/Recoleta-SemiBold.woff2") format("woff2"),
+    src: url("/fonts/Recoleta-SemiBold.woff2") format("woff2"),
 }
 
 @font-face {
     font-family: "SeptemberSpiritAllCaps";
-    src: url("/public/fonts/SeptemberSpiritAllCaps.woff2") format("woff2"),
+    src: url("/fonts/SeptemberSpiritAllCaps.woff2") format("woff2"),
 }
 
 /* Default font-family */
