@@ -22,7 +22,7 @@ const Nav = () => {
           />
         </svg>
         <div className="p-13 border border-[#6AAFB7] rounded-full relative">
-          <span className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-semibold text-xl">
+          <span className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-[Recoleta-SemiBold] text-xl tracking-wide">
             Menu
           </span>
         </div>
