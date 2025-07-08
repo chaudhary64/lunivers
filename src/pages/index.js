@@ -1,4 +1,4 @@
-const Home = () => {
+export default function Home() {
   return (
     <>
       <div className="leading-none">
@@ -17,6 +17,4 @@ const Home = () => {
       </div>
     </>
   );
-};
-
-export default Home;
+}
